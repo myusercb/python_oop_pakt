@@ -2,7 +2,7 @@
 
 
 # Python-Object-Oriented-Programming---4th-edition
-Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt
+Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt;
 
 The case study relies on a number of external packages. 
 It's often best to start with a tool like `conda`
